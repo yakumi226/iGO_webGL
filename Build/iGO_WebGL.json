@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AyuiGO",
+"dataUrl": "iGO_WebGL.data.unityweb",
+"asmCodeUrl": "iGO_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "iGO_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "iGO_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
